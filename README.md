@@ -1,0 +1,1 @@
+A collection of my optimal LeetCode solutions in Python, emphasizing efficient time and space complexity. Solutions are organized by problem category, with each LeetCode topic maintained in its own branch (e.g., two-pointers, binary-search, dynamic-programming).
