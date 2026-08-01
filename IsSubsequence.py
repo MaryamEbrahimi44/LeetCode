@@ -5,3 +5,4 @@ class Solution:
             if i<len(s) and s[i]==char:
                 i+=1
         return len(s)==i
+    
